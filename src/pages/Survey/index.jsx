@@ -19,4 +19,4 @@ function Survey() {
     </div>
   )
 }
-export default Survey
+export default Survey  
